@@ -18,7 +18,7 @@ class PostList extends Component {
             id: 1,
             author: {
               name: "Diego Fernandes",
-              avatar: "https://i.pravatar.cc/150?img=2"
+              avatar: "https://i.pravatar.cc/150?img=55"
             },
             content: "A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)"
           }
@@ -31,7 +31,7 @@ class PostList extends Component {
           avatar: "https://i.pravatar.cc/150?img=3"
         },
         date: "04 Jun 2019",
-        content: "Fala galera, beleza? Estou fazendo o Bootcamp GoStack da Rocketseat e está sendo muito massa! Alguém mais aí fazendo, comenta na publicação para trocarmos uma ideia.",
+        content: "Fala galera, Com qual linguagem de programação vcs atuavam antes de conhecer essa stack de JS na Rocketseat?",
         comments: [
           {
             id: 1,
@@ -39,15 +39,15 @@ class PostList extends Component {
               name: "Clara Lisboa",
               avatar: "https://i.pravatar.cc/150?img=4"
             },
-            content: "Também estou fazendo o Bootcamp e estou adorando! Estou no terceiro módulo sobre Node e já tenho minha API dos desafios contruída!"
+            content: "Eu trabalho com PHP"
           },
           {
             id: 2,
             author: {
-              name: "Cézar Toledo",
+              name: "Juliana",
               avatar: "https://i.pravatar.cc/150?img=5"
             },
-            content: "Que maaaaassa! Estou pensando em me inscrever na próxima turma pra ver qual é desse Bootcamp GoStack, dizem que os devs saem de lá com super poderes!"
+            content: "Cobol, sou das antigas"
           },
           {
             id: 3,
@@ -55,7 +55,7 @@ class PostList extends Component {
               name: "Ronaldinho",
               avatar: "https://i.pravatar.cc/150?img=6"
             },
-            content: "Também estou fazendo o Bootcamp e estou adorando! Estou no terceiro módulo sobre Node e já tenho minha API dos desafios contruída!"
+            content: "C++ e C"
           },
           {
             id: 4,
@@ -63,7 +63,7 @@ class PostList extends Component {
               name: "Troy Poulamalu",
               avatar: "https://i.pravatar.cc/150?img=7"
             },
-            content: "Que maaaaassa! Estou pensando em me inscrever na próxima turma pra ver qual é desse Bootcamp GoStack, dizem que os devs saem de lá com super poderes!"
+            content: "Java e C#"
           },
           {
             id: 5,
@@ -71,15 +71,15 @@ class PostList extends Component {
               name: "Fallen",
               avatar: "https://i.pravatar.cc/150?img=8"
             },
-            content: "Também estou fazendo o Bootcamp e estou adorando! Estou no terceiro módulo sobre Node e já tenho minha API dos desafios contruída!"
+            content: "Nenhuma, estou começando agora na programação, e vou usar essa stack de JS"
           },
           {
             id: 6,
             author: {
-              name: "FerGod",
+              name: "Bruna",
               avatar: "https://i.pravatar.cc/150?img=9"
             },
-            content: "Que maaaaassa! Estou pensando em me inscrever na próxima turma pra ver qual é desse Bootcamp GoStack, dizem que os devs saem de lá com super poderes!"
+            content: "Oracle PL/SQL"
           },
         ]
       },
@@ -90,7 +90,7 @@ class PostList extends Component {
           avatar: "https://i.pravatar.cc/150?img=10"
         },
         date: "04 Jun 2019",
-        content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
+        content: "Alguem mais curtiu a semana Omnistack?",
         comments: [
           {
             id: 1,
@@ -98,8 +98,24 @@ class PostList extends Component {
               name: "Glauber Alexandre",
               avatar: "https://i.pravatar.cc/150?img=22"
             },
-            content: "A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)"
-          }
+            content: "Eu curti demais, fiz a semana 8 e 9, e realmente aprendi muita coisa dessa stack de JS."
+          },
+          {
+            id: 2,
+            author: {
+              name: "Ana",
+              avatar: "https://i.pravatar.cc/150?img=23"
+            },
+            content: "Eu infelizmente não participei, mais não vejo a hora de sair a próxima para eu participar."
+          },
+          {
+            id: 3,
+            author: {
+              name: "Julia",
+              avatar: "https://i.pravatar.cc/150?img=24"
+            },
+            content: "Eu participei de todas, e não vejo a hora de sair mais uma, sempre gosto de acompanhar!!!"
+          },          
         ]
       },      
     ]
